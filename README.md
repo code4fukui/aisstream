@@ -32,3 +32,7 @@ deno run -A make_latestShipStatic.js
 deno run -A https://taisukef.github.io/liveserver/liveserver.js 7777
 ```
 open [http://[::]:7777/](http://[::]:7777/)
+
+## License
+
+MIT License
