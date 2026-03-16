@@ -4,14 +4,6 @@
 
 The AIS Stream API is a Deno-based application that receives and processes real-time AIS data, providing the latest position and ship static information in CSV format.
 
-## Demo
-
-- [https://code4fukui.github.io/aisstream/](https://code4fukui.github.io/aisstream/) at 2023-10-23
-
-## Sample JSON Data
-
-- [sample](sample)
-
 ## Usage
 
 1. Get your API_KEY from [aisstream.io](https://aisstream.io/) and write it to the ".env" file.
@@ -44,4 +36,4 @@ open [http://[::]:7777/](http://[::]:7777/)
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE).

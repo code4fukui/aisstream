@@ -2,10 +2,6 @@
 
 AISデータをリアルタイムに受信し、CSV形式で出力するDeno製アプリケーションです。
 
-## デモ
-
-- [https://code4fukui.github.io/aisstream/](https://code4fukui.github.io/aisstream/) at 2023-10-23
-
 ## 機能
 
 - AISデータのリアルタイム受信
